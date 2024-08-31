@@ -22,7 +22,7 @@ To get started with this project:
 2. Open the Figma link to access the design files.
 
 
-## Contributions
+## Contributions (Group)
 
 1. Creation of Design Plans
 
